@@ -1,2 +1,2 @@
-# Teste1
-Quero saber o q isso faz, então criei este repositório
+# Learner
+I want to know about R, Python.
